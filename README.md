@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josephprasadula&show_icons=true&theme=dracula)
 
