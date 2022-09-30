@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 ![](https://komarev.com/ghpvc/?username=josephprasadula&color=ff69b4)
 <!--
 **josephprasadula/josephprasadula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
